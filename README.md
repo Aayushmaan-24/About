@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Illuminati24
+- 👋 Hi, I’m @Aayushmaan
 - 👀 I’m interested in coding and basketball
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
