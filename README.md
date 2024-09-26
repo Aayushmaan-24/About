@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aayushmaan
 - 👀 I’m interested in coding and basketball
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,web dev and C
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me earnreality@gmail.com
+- 📫 How to reach me aayushmaan.chakraborty@gmail.com
 - ⚡ Fun fact: NO
 
 <!---
